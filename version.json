@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
-  "apkUrl": "https://raw.githubusercontent.com/siydkm-eng/ente-incentive-updates/main/Ente-Incentive-v1.5.apk",
-  "notes": "Sales data Backup and Restore added under the Set tab: one-tap JSON backup and file-based restore with confirmation."
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://raw.githubusercontent.com/siydkm-eng/ente-incentive-updates/main/Ente-Incentive-v1.8.apk",
+  "notes": "Target insights (top model, best day, pace date, zero-sale days), 7-day bars, yesterday's sale + DRR need-today in Today's Sale, Buds XE tier strip, V Shield next-slab progress, month report sharing."
 }

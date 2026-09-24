@@ -1,1 +1,6 @@
-{"apkUrl":"https://raw.githubusercontent.com/siydkm-eng/ente-incentive-updates/main/Ente-Incentive-v1.2.apk","notes":"In-app update support added. Latest September prices, incentives and affordability data included.","versionCode":3,"versionName":"1.2"}
+{
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://raw.githubusercontent.com/siydkm-eng/ente-incentive-updates/main/Ente-Incentive-v1.3.apk",
+  "notes": "Tap the blue estimate box on the Month tab to see deduction reasons and what is needed to clear each one."
+}

@@ -1,0 +1,157 @@
+{
+ "version": 202609251007,
+ "updated_at": "2026-09-25",
+ "amounts_in": "rupees",
+ "entries": [
+  {
+   "date": "2026-09-25",
+   "model_name": "Y05 (4GB+64GB)",
+   "old_selling_price": 14999,
+   "new_selling_price": 15999,
+   "old_normal_incentive": 40,
+   "new_normal_incentive": 40,
+   "old_vshield_incentive": 40,
+   "new_vshield_incentive": 40
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "Y19s 5G (4GB+64GB)",
+   "old_selling_price": 17499,
+   "new_selling_price": 18499,
+   "old_normal_incentive": 40,
+   "new_normal_incentive": 40,
+   "old_vshield_incentive": 40,
+   "new_vshield_incentive": 40
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "Y11 5G (4GB+64GB)",
+   "old_selling_price": 17999,
+   "new_selling_price": 18999,
+   "old_normal_incentive": 115,
+   "new_normal_incentive": 115,
+   "old_vshield_incentive": 100,
+   "new_vshield_incentive": 100
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "Y21 5G (4GB+64GB)",
+   "old_selling_price": 19499,
+   "new_selling_price": 20999,
+   "old_normal_incentive": 125,
+   "new_normal_incentive": 125,
+   "old_vshield_incentive": 100,
+   "new_vshield_incentive": 100
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "Y11 5G (4GB+128GB)",
+   "old_selling_price": 20999,
+   "new_selling_price": 22499,
+   "old_normal_incentive": 130,
+   "new_normal_incentive": 130,
+   "old_vshield_incentive": 100,
+   "new_vshield_incentive": 100
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "Y19s 5G (4GB+128GB)",
+   "old_selling_price": 20999,
+   "new_selling_price": 22499,
+   "old_normal_incentive": 40,
+   "new_normal_incentive": 40,
+   "old_vshield_incentive": 40,
+   "new_vshield_incentive": 40
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "Y21 5G (4GB+128GB)",
+   "old_selling_price": 22499,
+   "new_selling_price": 23999,
+   "old_normal_incentive": 150,
+   "new_normal_incentive": 150,
+   "old_vshield_incentive": 100,
+   "new_vshield_incentive": 100
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "Y31t 5G (4GB+128GB)",
+   "old_selling_price": 25999,
+   "new_selling_price": 26999,
+   "old_normal_incentive": 175,
+   "new_normal_incentive": 175,
+   "old_vshield_incentive": 100,
+   "new_vshield_incentive": 100
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "Y21 5G (6GB+128GB)",
+   "old_selling_price": 26499,
+   "new_selling_price": 27999,
+   "old_normal_incentive": 175,
+   "new_normal_incentive": 175,
+   "old_vshield_incentive": 100,
+   "new_vshield_incentive": 100
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "Y31t 5G (6GB+128GB)",
+   "old_selling_price": 29999,
+   "new_selling_price": 31499,
+   "old_normal_incentive": 270,
+   "new_normal_incentive": 270,
+   "old_vshield_incentive": 175,
+   "new_vshield_incentive": 175
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "Y51 Pro 5G (8GB+128GB)",
+   "old_selling_price": 32999,
+   "new_selling_price": 34999,
+   "old_normal_incentive": 290,
+   "new_normal_incentive": 290,
+   "old_vshield_incentive": 175,
+   "new_vshield_incentive": 175
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "S2 (8GB+128GB)",
+   "old_selling_price": 39999,
+   "new_selling_price": 42999,
+   "old_normal_incentive": 315,
+   "new_normal_incentive": 315,
+   "old_vshield_incentive": 200,
+   "new_vshield_incentive": 200
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "S2 (8GB+256GB)",
+   "old_selling_price": 44999,
+   "new_selling_price": 48999,
+   "old_normal_incentive": 335,
+   "new_normal_incentive": 335,
+   "old_vshield_incentive": 200,
+   "new_vshield_incentive": 200
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "X300 FE (8GB+256GB)",
+   "old_selling_price": 84999,
+   "new_selling_price": 89999,
+   "old_normal_incentive": 600,
+   "new_normal_incentive": 600,
+   "old_vshield_incentive": 600,
+   "new_vshield_incentive": 600
+  },
+  {
+   "date": "2026-09-25",
+   "model_name": "X300 FE (12GB+256GB)",
+   "old_selling_price": 89999,
+   "new_selling_price": 94999,
+   "old_normal_incentive": 700,
+   "new_normal_incentive": 700,
+   "old_vshield_incentive": 700,
+   "new_vshield_incentive": 700
+  }
+ ]
+}

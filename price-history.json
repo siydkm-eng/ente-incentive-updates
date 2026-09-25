@@ -1,5 +1,5 @@
 {
- "version": 202609251031,
+ "version": 202609251045,
  "updated_at": "2026-09-25",
  "amounts_in": "rupees",
  "entries": [
@@ -258,6 +258,76 @@
    "model_name": "Y19s 5G (4GB+128GB)",
    "old_selling_price": null,
    "new_selling_price": 20999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-06-15",
+   "model_name": "Y21 5G (6GB+128GB)",
+   "old_selling_price": 20999,
+   "new_selling_price": 21999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-06-15",
+   "model_name": "Y400 5G (8GB+128GB)",
+   "old_selling_price": 28999,
+   "new_selling_price": 31999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-06-15",
+   "model_name": "Y400 5G (8GB+256GB)",
+   "old_selling_price": 31999,
+   "new_selling_price": 34999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-06-15",
+   "model_name": "V70 (8GB+256GB)",
+   "old_selling_price": 49999,
+   "new_selling_price": 53999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-06-15",
+   "model_name": "V70 (12GB+256GB)",
+   "old_selling_price": 53999,
+   "new_selling_price": 56999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-06-15",
+   "model_name": "V70 Elite (8GB+256GB)",
+   "old_selling_price": 54999,
+   "new_selling_price": 58999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-06-15",
+   "model_name": "V70 Elite (12GB+256GB)",
+   "old_selling_price": 59999,
+   "new_selling_price": 63999,
    "old_normal_incentive": null,
    "new_normal_incentive": null,
    "old_vshield_incentive": null,

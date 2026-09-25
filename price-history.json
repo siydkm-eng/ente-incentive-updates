@@ -1,5 +1,5 @@
 {
- "version": 202609251007,
+ "version": 202609251031,
  "updated_at": "2026-09-25",
  "amounts_in": "rupees",
  "entries": [
@@ -152,6 +152,116 @@
    "new_normal_incentive": 700,
    "old_vshield_incentive": 700,
    "new_vshield_incentive": 700
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y51 Pro 5G (8GB+128GB)",
+   "old_selling_price": null,
+   "new_selling_price": 32999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y51 Pro 5G (8GB+256GB)",
+   "old_selling_price": null,
+   "new_selling_price": 37999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y31 5G (6GB+128GB)",
+   "old_selling_price": null,
+   "new_selling_price": 27999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y31 5G (6GB+256GB)",
+   "old_selling_price": null,
+   "new_selling_price": 31999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y21 5G (4GB+64GB)",
+   "old_selling_price": null,
+   "new_selling_price": 19499,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y21 5G (4GB+128GB)",
+   "old_selling_price": null,
+   "new_selling_price": 22499,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y21 5G (6GB+128GB)",
+   "old_selling_price": null,
+   "new_selling_price": 26499,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y11 5G (4GB+64GB)",
+   "old_selling_price": null,
+   "new_selling_price": 17999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y11 5G (4GB+128GB)",
+   "old_selling_price": null,
+   "new_selling_price": 20999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y19s 5G (4GB+64GB)",
+   "old_selling_price": null,
+   "new_selling_price": 17499,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
+  },
+  {
+   "date": "2026-08-17",
+   "model_name": "Y19s 5G (4GB+128GB)",
+   "old_selling_price": null,
+   "new_selling_price": 20999,
+   "old_normal_incentive": null,
+   "new_normal_incentive": null,
+   "old_vshield_incentive": null,
+   "new_vshield_incentive": null
   }
  ]
 }
